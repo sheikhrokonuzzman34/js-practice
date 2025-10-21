@@ -65,12 +65,14 @@
 
 // console.log(person.fullName())
 
-let x = 5
+// let x = 5
 
-let  y= new String('hello')
+// let  y= new String('hello')
 
-console.log(typeof x)
-console.log(typeof y)
+// console.log(typeof x)
+// console.log(typeof y)
+
+// function displayDate() {document.getElementById("demo").innerHTML = Date();}
 
 
 
