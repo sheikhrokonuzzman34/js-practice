@@ -74,5 +74,8 @@
 
 // function displayDate() {document.getElementById("demo").innerHTML = Date();}
 
+var x = "lorem hello"
+
+console.log(x.length)
 
 
